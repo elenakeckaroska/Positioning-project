@@ -1,0 +1,90 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.div-nav{
+    float: right;
+    padding-top: 25px;
+    text-transform:uppercase;
+    color: grey;
+}
+.nav{
+    padding-left: 30px;
+}
+.img-nav{
+    float: left;
+}
+nav{
+
+    padding-right: 70px;
+    padding-left: 70px;
+    height: 70px;
+    border-bottom: solid 2px black;
+}
+.footer{
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-bottom: 70px;
+    margin-top: 10px;
+    border-top: solid 2px black;
+}
+.content{
+    height: 450px;
+
+}
+.content-1{
+    color: white;
+    background-color: lightgreen;
+    height: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.content-2{
+    background-color: lightgrey;
+    color: white;
+    height: 370px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+}
+.content-2-a{
+    width: 650px;
+    float: left;
+}
+
+.get-in-touch{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.contact-content{
+    color: black;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.content-paragraph{
+    color: black;
+}
+.home-contact{
+    padding-top: 5px;
+    float: right;
+    font-size: 15px;
+}
+.item {
+    float: left;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: grey;
+}
+a.current-link{
+    color: lightgreen;
+}
